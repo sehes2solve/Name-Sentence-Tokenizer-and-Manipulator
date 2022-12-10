@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1551910552 source:c:\users\ehab\desktop\new folder\name\main.cpp
+	<iostream>
+	"Name.h"
+
+1551910525 c:\users\ehab\desktop\new folder\name\include\name.h
+	<string>
+	<iostream>
+	<bits/stdc++.h>
+
+1551910348 source:c:\users\ehab\desktop\new folder\name\src\name.cpp
+	"Name.h"
+
